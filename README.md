@@ -1,17 +1,50 @@
-# shopease
+🛍️ ShopEase – Flutter Shopping App
 
-A new Flutter project.
+ShopEase is a modern and user-friendly shopping application built using Flutter and Dart. It provides a smooth shopping experience with an attractive interface and useful shopping features.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+- 🏠 Modern Home Screen
+- 🔍 Product Search
+- 📂 Category-wise Product Filtering
+- 🛒 Add to Cart
+- ❤️ Wishlist Management
+- ⭐ Product Ratings and Reviews
+- 📦 Product Details
+- 💳 Checkout Screen
+- 📱 Responsive User Interface
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Provider
+- SharedPreferences
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Getting Started
+
+1. Clone this repository:
+   
+   "git clone https://github.com/jasmine0507/shopease.git"
+
+2. Open the project folder:
+   
+   "cd shopease"
+
+3. Install dependencies:
+   
+   "flutter pub get"
+
+4. Run the application:
+   
+   "flutter run"
+
+👩‍💻 Developer
+
+Jasmine Sulthana
+
+GitHub: "@jasmine0507" (https://github.com/jasmine0507)
+
+---
+
+⭐ If you like this project, consider giving it a star!
